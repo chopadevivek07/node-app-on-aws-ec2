@@ -1,0 +1,14 @@
+{
+  "name": "node-app-on-aws-ec2",
+  "version": "1.0.0",
+  "description": "A simple Node.js + Express app deployed on AWS EC2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vivek Singh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
